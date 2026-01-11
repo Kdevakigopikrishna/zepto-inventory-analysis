@@ -45,3 +45,48 @@ CREATE TABLE zepto(
     outofstock BOOLEAN,
     quantity INTEGER
 );
+
+
+## 🔍 Data Exploration  
+
+The following checks were performed:
+- Total row count  
+- Sample data preview  
+- Null value detection  
+- Unique product categories  
+- Stock availability analysis  
+- Duplicate product identification  
+
+---
+
+## 🧹 Data Cleaning  
+
+Cleaning steps applied:
+- Removed products with **MRP = 0**  
+- Converted price values from **paise to rupees**  
+- Verified missing values  
+
+---
+
+## 📈 Data Analysis  
+
+Business questions answered using SQL:
+- Top 10 products with the highest discount  
+- High MRP products that are out of stock  
+- Estimated revenue by category  
+- Premium products with low discount  
+- Categories with highest average discount  
+- Best value products based on price per gram  
+- Product weight classification (Low / Medium / Bulk)  
+- Total inventory weight by category  
+
+---
+
+## 🎯 Project Outcome  
+
+This project demonstrates:
+- SQL data analysis skills  
+- Data cleaning techniques  
+- Business insight generation  
+- PostgreSQL usage  
+- Real-world dataset handling  
