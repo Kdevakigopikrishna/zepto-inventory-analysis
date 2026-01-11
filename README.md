@@ -46,7 +46,7 @@ CREATE TABLE zepto(
     quantity INTEGER
 );
 
-
+---
 ## 🔍 Data Exploration  
 
 The following checks were performed:
