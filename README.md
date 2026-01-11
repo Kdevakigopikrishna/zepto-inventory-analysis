@@ -45,8 +45,6 @@ CREATE TABLE zepto(
     outofstock BOOLEAN,
     quantity INTEGER
 );
-
----
 ## 🔍 Data Exploration  
 
 The following checks were performed:
